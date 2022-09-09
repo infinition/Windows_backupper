@@ -1,4 +1,4 @@
-# Linux_backupper
+# Windows_backupper
 Gui Tool to backup files and folders in linux
 - Configuration file can be saved and re imported
 - Normal backup or Zipped file backup
